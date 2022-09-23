@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "igKHoSUwG3MgqV6GDgzNWao1EZOC1r9rRPxMXAhJQ1haQFIhOr2gCSHVr2dNs8VBbf69z85SRI7fY2cw53xYxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\matus\\Desktop\\C# - VŠETKO\\Library\\Library.Core\\Library.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matus\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\matus\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\matus\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\matus\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

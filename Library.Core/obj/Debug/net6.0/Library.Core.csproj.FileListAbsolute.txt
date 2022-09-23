@@ -1,0 +1,24 @@
+C:\Users\matus\Desktop\Library\Library.Core\bin\Debug\net6.0\Library.Core.deps.json
+C:\Users\matus\Desktop\Library\Library.Core\bin\Debug\net6.0\Library.Core.dll
+C:\Users\matus\Desktop\Library\Library.Core\bin\Debug\net6.0\Library.Core.pdb
+C:\Users\matus\Desktop\Library\Library.Core\obj\Debug\net6.0\Library.Core.csproj.AssemblyReference.cache
+C:\Users\matus\Desktop\Library\Library.Core\obj\Debug\net6.0\Library.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matus\Desktop\Library\Library.Core\obj\Debug\net6.0\Library.Core.AssemblyInfoInputs.cache
+C:\Users\matus\Desktop\Library\Library.Core\obj\Debug\net6.0\Library.Core.AssemblyInfo.cs
+C:\Users\matus\Desktop\Library\Library.Core\obj\Debug\net6.0\Library.Core.csproj.CoreCompileInputs.cache
+C:\Users\matus\Desktop\Library\Library.Core\obj\Debug\net6.0\Library.Core.dll
+C:\Users\matus\Desktop\Library\Library.Core\obj\Debug\net6.0\refint\Library.Core.dll
+C:\Users\matus\Desktop\Library\Library.Core\obj\Debug\net6.0\Library.Core.pdb
+C:\Users\matus\Desktop\Library\Library.Core\obj\Debug\net6.0\ref\Library.Core.dll
+C:\Users\matus\Desktop\C# - VŠETKO\Library\Library.Core\bin\Debug\net6.0\Library.Core.deps.json
+C:\Users\matus\Desktop\C# - VŠETKO\Library\Library.Core\bin\Debug\net6.0\Library.Core.dll
+C:\Users\matus\Desktop\C# - VŠETKO\Library\Library.Core\bin\Debug\net6.0\Library.Core.pdb
+C:\Users\matus\Desktop\C# - VŠETKO\Library\Library.Core\obj\Debug\net6.0\Library.Core.csproj.AssemblyReference.cache
+C:\Users\matus\Desktop\C# - VŠETKO\Library\Library.Core\obj\Debug\net6.0\Library.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matus\Desktop\C# - VŠETKO\Library\Library.Core\obj\Debug\net6.0\Library.Core.AssemblyInfoInputs.cache
+C:\Users\matus\Desktop\C# - VŠETKO\Library\Library.Core\obj\Debug\net6.0\Library.Core.AssemblyInfo.cs
+C:\Users\matus\Desktop\C# - VŠETKO\Library\Library.Core\obj\Debug\net6.0\Library.Core.csproj.CoreCompileInputs.cache
+C:\Users\matus\Desktop\C# - VŠETKO\Library\Library.Core\obj\Debug\net6.0\Library.Core.dll
+C:\Users\matus\Desktop\C# - VŠETKO\Library\Library.Core\obj\Debug\net6.0\refint\Library.Core.dll
+C:\Users\matus\Desktop\C# - VŠETKO\Library\Library.Core\obj\Debug\net6.0\Library.Core.pdb
+C:\Users\matus\Desktop\C# - VŠETKO\Library\Library.Core\obj\Debug\net6.0\ref\Library.Core.dll

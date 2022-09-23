@@ -1,0 +1,34 @@
+C:\Users\matus\Desktop\Library\Library.Infrastructure\bin\Debug\net6.0\Library.Infrastructure.deps.json
+C:\Users\matus\Desktop\Library\Library.Infrastructure\bin\Debug\net6.0\Library.Infrastructure.runtimeconfig.json
+C:\Users\matus\Desktop\Library\Library.Infrastructure\bin\Debug\net6.0\Library.Infrastructure.dll
+C:\Users\matus\Desktop\Library\Library.Infrastructure\bin\Debug\net6.0\Library.Infrastructure.pdb
+C:\Users\matus\Desktop\Library\Library.Infrastructure\bin\Debug\net6.0\Library.Core.dll
+C:\Users\matus\Desktop\Library\Library.Infrastructure\bin\Debug\net6.0\Library.Core.pdb
+C:\Users\matus\Desktop\Library\Library.Infrastructure\obj\Debug\net6.0\Library.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\matus\Desktop\Library\Library.Infrastructure\obj\Debug\net6.0\Library.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matus\Desktop\Library\Library.Infrastructure\obj\Debug\net6.0\Library.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\matus\Desktop\Library\Library.Infrastructure\obj\Debug\net6.0\Library.Infrastructure.AssemblyInfo.cs
+C:\Users\matus\Desktop\Library\Library.Infrastructure\obj\Debug\net6.0\Library.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\matus\Desktop\Library\Library.Infrastructure\obj\Debug\net6.0\Library.Infrastructure.csproj.CopyComplete
+C:\Users\matus\Desktop\Library\Library.Infrastructure\obj\Debug\net6.0\Library.Infrastructure.dll
+C:\Users\matus\Desktop\Library\Library.Infrastructure\obj\Debug\net6.0\refint\Library.Infrastructure.dll
+C:\Users\matus\Desktop\Library\Library.Infrastructure\obj\Debug\net6.0\Library.Infrastructure.pdb
+C:\Users\matus\Desktop\Library\Library.Infrastructure\obj\Debug\net6.0\Library.Infrastructure.genruntimeconfig.cache
+C:\Users\matus\Desktop\Library\Library.Infrastructure\obj\Debug\net6.0\ref\Library.Infrastructure.dll
+C:\Users\matus\Desktop\C# - VŠETKO\Library\Library.Infrastructure\bin\Debug\net6.0\Library.Infrastructure.deps.json
+C:\Users\matus\Desktop\C# - VŠETKO\Library\Library.Infrastructure\bin\Debug\net6.0\Library.Infrastructure.runtimeconfig.json
+C:\Users\matus\Desktop\C# - VŠETKO\Library\Library.Infrastructure\bin\Debug\net6.0\Library.Infrastructure.dll
+C:\Users\matus\Desktop\C# - VŠETKO\Library\Library.Infrastructure\bin\Debug\net6.0\Library.Infrastructure.pdb
+C:\Users\matus\Desktop\C# - VŠETKO\Library\Library.Infrastructure\bin\Debug\net6.0\Library.Core.dll
+C:\Users\matus\Desktop\C# - VŠETKO\Library\Library.Infrastructure\bin\Debug\net6.0\Library.Core.pdb
+C:\Users\matus\Desktop\C# - VŠETKO\Library\Library.Infrastructure\obj\Debug\net6.0\Library.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\matus\Desktop\C# - VŠETKO\Library\Library.Infrastructure\obj\Debug\net6.0\Library.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matus\Desktop\C# - VŠETKO\Library\Library.Infrastructure\obj\Debug\net6.0\Library.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\matus\Desktop\C# - VŠETKO\Library\Library.Infrastructure\obj\Debug\net6.0\Library.Infrastructure.AssemblyInfo.cs
+C:\Users\matus\Desktop\C# - VŠETKO\Library\Library.Infrastructure\obj\Debug\net6.0\Library.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\matus\Desktop\C# - VŠETKO\Library\Library.Infrastructure\obj\Debug\net6.0\Library.Infrastructure.csproj.CopyComplete
+C:\Users\matus\Desktop\C# - VŠETKO\Library\Library.Infrastructure\obj\Debug\net6.0\Library.Infrastructure.dll
+C:\Users\matus\Desktop\C# - VŠETKO\Library\Library.Infrastructure\obj\Debug\net6.0\refint\Library.Infrastructure.dll
+C:\Users\matus\Desktop\C# - VŠETKO\Library\Library.Infrastructure\obj\Debug\net6.0\Library.Infrastructure.pdb
+C:\Users\matus\Desktop\C# - VŠETKO\Library\Library.Infrastructure\obj\Debug\net6.0\Library.Infrastructure.genruntimeconfig.cache
+C:\Users\matus\Desktop\C# - VŠETKO\Library\Library.Infrastructure\obj\Debug\net6.0\ref\Library.Infrastructure.dll
